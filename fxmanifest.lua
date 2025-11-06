@@ -3,6 +3,6 @@ game 'gta5'
 
 description 'Shared library for bl resources'
 author 'BL SCRIPTS'
-version '1.0.0'
+version '1.0.1'
 
 shared_script 'lib.lua'
